@@ -11,11 +11,11 @@
     grid-column: 1 / -1;
     display: flex;
     justify-content: end;
-    padding: 5px;
+    padding: 05px;
     font-size: 5.5em;
     font-weight: initial;
     text-shadow: 1.3px 1.3px #383838;
-    margin: 5px;
+    margin: 05px;
     border: 2px solid black;
 }
 
@@ -23,7 +23,7 @@
     display: grid;
     grid-template: minmax(100px, auto) repeat(5, 80px) / repeat(4, 100px);
     border: 10px solid rgba(47, 47, 47, 1);
-    margin: 10px;
+    margin: 05px;
     gap: 2px;
     background-color: black;
 }
